@@ -12,7 +12,11 @@ Portfolio Website: <a href="https://webro1989.github.io/portfolio-webpage/">My P
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) <br />
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) <br />
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) <br />
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) <br />
+
+I’m always looking to grow, share knowledge, and build something amazing. Let’s connect and create together! 🚀
+
+
 
 
 
