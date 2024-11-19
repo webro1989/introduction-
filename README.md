@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Hassan Zaib ...
-- 👀 I’m interested in ... full stack development 
-- 🌱 I’m currently learned ...  frontend web development 
-- 💞️ I’m looking to collaborate on ... html css projects 
-- 📫 How to reach me ... mustafa20khan01@gmail.com
+Hi, I’m Hassan Zaib! 👋
+👀 Passionate About: Full Stack Development
+🌱 Currently Learning: Frontend Web Development (HTML, CSS, JavaScript, and more!)
+💡 Excited to Collaborate On: Creative and impactful web projects.
+📫 Reach Me At: mustafa20khan01@gmail.com
 
 ### Technologies I Use
 
