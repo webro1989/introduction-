@@ -4,7 +4,7 @@ Hi, I’m Hassan Zaib! 👋 <br />
 💡 Excited to Collaborate On: Creative and impactful web projects. <br />
 📫 Reach Me At: mustafa20khan01@gmail.com <br />
 Portfolio Website: <a href="https://webro1989.github.io/portfolio-webpage/">My Portfolio</a> <br />
-### Technologies I Use
+### My Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br />
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br />
